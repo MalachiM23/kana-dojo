@@ -501,7 +501,7 @@
     "note": "場の一体感を重視。",
     "id": 56,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "公共スペース 3",
@@ -509,7 +509,7 @@
     "dont": "ゴミを放置する",
     "note": "ゴミ箱が少ない地域がある。",
     "id": 57,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
