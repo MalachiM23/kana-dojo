@@ -797,7 +797,7 @@
     "romaji": "Hito no furi mite waga furi naose",
     "english": "Watch others and correct yourself",
     "meaning": "Learn from others' behavior",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -806,7 +806,7 @@
     "romaji": "Keizoku wa chikara nari",
     "english": "Continuation is power",
     "meaning": "Consistency leads to strength",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -815,7 +815,7 @@
     "romaji": "Ame futte ji katamaru",
     "english": "After the rain, the ground hardens",
     "meaning": "Hard times make relationships stronger",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -825,7 +825,7 @@
     "english": "A rolling stone gathers no moss",
     "meaning": "Constant change prevents stagnation",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 93,
